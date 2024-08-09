@@ -5,8 +5,9 @@ Project Overview
 This project provides a comprehensive EDA on a car price dataset. The main goal is to extract insights and identify patterns that affect vehicle pricing. The final output is a linear regression model that predicts car prices based on the features analyzed.
 
 Dataset
-Source: [Link to dataset if available publicly]
+Source:  https://www.kaggle.com/goyalshalini93/car-price-prediction-linear-regression-rfe
 Description: The dataset includes features such as vehicle make, model, year, mileage, engine size, and more. Missing values were handled, and relevant features were normalized and binned.
+
 EDA Process
 Data Cleaning:
 
